@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Battery Saver -->
+    <string name="unified_battery_saver_page_intro" product="default">Save power to help your phone battery last longer between charges</string>
+    <string name="unified_battery_saver_page_intro" product="tablet">Save power to help your tablet battery last longer between charges</string>
+
+    <!-- Adaptive Battery -->
+    <string name="smart_battery_summary" product="default">Adaptive Battery learns from your phone usage to continuously optimize how apps use battery. To extend battery life, it may reduce performance and delay notifications.</string>
+    <string name="smart_battery_summary" product="tablet">Adaptive Battery learns from your tablet usage to continuously optimize how apps use battery. To extend battery life, it may reduce performance and delay notifications.</string>
+
+    <!-- Battery Saver Help URL -->
+    <string name="help_url_battery_saver_settings" translatable="false" product="default">https://support.google.com/pixelphone/?p=battery_saver_settings</string>
+    <string name="help_url_battery_saver_settings" translatable="false" product="tablet">https://support.google.com/googlepixeltablet/?p=battery_saver</string>
+</resources>
